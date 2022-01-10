@@ -1,4 +1,4 @@
-# Bike sharing Pitch
+# Bike sharing Des Moines 
 Please use the following link to see the related tableau dashboard.
 [link to dashboard](https://public.tableau.com/app/profile/joseph.goeman/viz/Mod14Challenge_16417683242540/NYCCityBikeChallenge?publish=yes)    
     
