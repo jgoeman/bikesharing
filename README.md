@@ -50,7 +50,9 @@ This is another view of trips by week broken down by gender. The same trends can
 
 ### Trips by Gender by Weeday
 
-Overall it can be seen that subscribers make up a larger total of all use for both males and females. Saturday and Sunday see greater total of normal customers. While subscribers see much higher numbers throughout the week.
+Overall it can be seen that subscribers make up a larger total of all use for both males and females. Saturday and Sunday see greater total of normal customers. While subscribers see much higher numbers throughout the week.    
+    
+    
 ![image](https://user-images.githubusercontent.com/36859475/148710769-7f5e88da-aeec-4b9d-a082-a16b7f6e6e47.png)
 
 ## Summary
